@@ -1,5 +1,5 @@
-web2conf
-========
+web2congress
+============
 
 Web2py / Python application for Conference Registration and Management.
 
