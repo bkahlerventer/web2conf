@@ -7,7 +7,9 @@ It was originally developed for PyCon US 2009 registration.
 Used also at PyCon US 2010, PyCon Argentina (2009, 2010 -resurrected sites from old PyConTech-, 2011, 2012, 2013), 
 and in a lot of smaller conferences and events in Argentina (including around 7 PyDays, 2 PgDays, 1 IntallFest, etc.)
 
-Project main site and further information: https://code.google.com/p/web2conf/
+Adaptations for a Professional Society Congress Site underway
+
+Initial project main and further information: https://code.google.com/p/web2conf/
 
 Features & Enhancements:
 ------------------------
@@ -35,5 +37,4 @@ Features & Enhancements:
 Installation Instructions:
 --------------------------
 
-Just download the source code inside a folder in the web2py applications directory, or see the pre-packaged released
-applications at https://code.google.com/p/web2conf/downloads
+Just download the source code inside a folder in the web2py applications directory.
